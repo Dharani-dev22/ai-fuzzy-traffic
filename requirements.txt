@@ -6,3 +6,4 @@ scikit-fuzzy
 scipy
 numpy
 networkx
+plotly
