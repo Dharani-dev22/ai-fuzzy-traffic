@@ -36,3 +36,24 @@ To run this project, you need a valid Google Gemini API key. Never expose your a
 ```bash
 git clone [https://github.com/Dharani-dev22/ai-fuzzy-traffic.git](https://github.com/Dharani-dev22/ai-fuzzy-traffic.git)
 cd ai-fuzzy-traffic
+
+2. **Install Dependencies**
+
+    pip install -r requirements.txt
+
+3. **Run the Application**
+
+    streamlit run app.py
+
+
+## 📦 Requirements (requirements.txt)
+
+    streamlit
+    langchain
+    langchain-google-genai
+    langchain-core
+    scikit-fuzzy
+    scipy
+    numpy
+    networkx
+    plotly
